@@ -1,3 +1,9 @@
-<!DOCTYPE html>
-background-color: #abf7b1;
-color: #000000;
+body {
+  background-color: #abf7b1;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
